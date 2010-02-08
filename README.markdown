@@ -9,8 +9,8 @@ building and running
 
 ### requisites
 
-    - installed [jdk](http://java.sun.com/)
-    - [sbt](http://code.google.com/p/simple-build-tool/) >= 0.6.12
+* installed [jdk](http://java.sun.com/)
+* [sbt](http://code.google.com/p/simple-build-tool/) >= 0.6.12
 
 ### build
 
